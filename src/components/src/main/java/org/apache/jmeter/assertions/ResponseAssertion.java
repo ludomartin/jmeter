@@ -64,7 +64,7 @@ public class ResponseAssertion extends AbstractScopedAssertion implements Serial
     private static final String REQUEST_HEADERS = "Assertion.request_headers"; // $NON-NLS-1$
     private static final String REQUEST_DATA = "Assertion.request_data"; // $NON-NLS-1$
     private static final String ASSUME_SUCCESS = "Assertion.assume_success"; // $NON-NLS-1$
-    private static final String TEST_STRINGS = "Asserion.test_strings"; // $NON-NLS-1$
+    private static final String TEST_STRINGS = "Assertion.test_strings"; // $NON-NLS-1$
     private static final String TEST_TYPE = "Assertion.test_type"; // $NON-NLS-1$
     private static final String CUSTOM_MESSAGE = "Assertion.custom_message"; // $NON-NLS-1$
 
